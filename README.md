@@ -15,3 +15,6 @@ Limitations:
 Recommendations:
   1. Good option for Van Emde Boas tree would be Red - black trees, which basically gives O(log n) time for all 
       operations.
+
+Use:
+  1. Very use while implementing Heap, to extract min and max element from the tree.
