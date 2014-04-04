@@ -17,4 +17,4 @@ Recommendations:
       operations.
 
 Use:
-  1. Very use while implementing Heap, to extract min and max element from the tree.
+  1. Very useful while implementing Heap, to extract min and max element from the tree.
