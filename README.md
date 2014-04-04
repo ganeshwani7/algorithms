@@ -13,8 +13,8 @@ Limitations:
   2. Basically, value of elements which can be stored in the tree is restricted.
 
 Recommendations:
-  1. Good option for Van Emde Boas tree would be Red - black trees, which basically gives O(log n) time for all 
-      operations.
+  1. Good alternative for Van Emde Boas tree would be Red - black trees, which basically gives O(log n) time for all 
+      operations and gives the flexibility to use any range of numbers unlike VEB.
 
 Use:
   1. Very useful while implementing Heap, to extract min and max element from the tree.
